@@ -4,10 +4,10 @@ class Magic:
     Incluye implementaciones de Fibonacci, números perfectos, triangulo de pascal etc.
     """
     
-    def fibonacci(self, n):
+    "def fibonacci(self, n):
         """
         Calcula el n-ésimo número de la secuencia de Fibonacci.
-        
+        "hdjdhjs"
         Args:
             n (int): Posición en la secuencia (empezando desde 0)
             
@@ -15,6 +15,9 @@ class Magic:
             int: El n-ésimo número de Fibonacci
         """
         pass
+
+
+        "jujddj""gkdwgdjk"
     
     def secuencia_fibonacci(self, n):
         """
